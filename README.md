@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea0f6958-3955-4dad-9323-0bb531afed89" /># 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on Web Development, Open Source Contributions, React Projects, JavaScript.<br>👯 I’m looking to collaborate on Open Source Projects, Frontend UI Projects, React Apps.<br>🤝 I’m looking for help with Open Source Workflow, Backend Development, Advanced React.<br>🌱 I’m currently learning  Open Source, Machine Learning Basics, Data Structures and Algorithms.<br>💬 Ask me about JavaScript, React Basics, Open Source Beginner Journey.<br>⚡ Fun fact Debugging commas in JSON taught me patience 😭
 
 
